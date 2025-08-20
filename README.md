@@ -12,6 +12,9 @@ Ensured proper folder structure for efficient data organization and retrieval.
 
 <img width="1896" height="877" alt="image" src="https://github.com/user-attachments/assets/eea462ba-b0a3-4b4f-86a1-25f2ccfd237c" />
 
+Here's the URL of AWS(S3)
+https://us-east-1.console.aws.amazon.com/s3/buckets/tableau.project03?region=us-east-1&tab=objects&bucketType=general
+
 ---
 
 **2. Access & Integration Setup (Snowflake + AWS)**

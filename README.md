@@ -26,6 +26,8 @@ Configured an integration object to establish a secure connection with AWS S3.
 Updated trust policies to allow Snowflake to access the S3 bucket seamlessly.
 
 <img width="1893" height="817" alt="image" src="https://github.com/user-attachments/assets/c5189fab-97ef-452b-9e88-4a76f40f5fd6" />
+Here's the URL of Snowflake
+https://app.snowflake.com/nrrhluf/ob70514/w2TjByiqqBeF/query
 
 ---
 
